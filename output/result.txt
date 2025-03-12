@@ -81,7 +81,6 @@ CCTV-17,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455
 东方卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F6000000001000003639.m3u8%3Fcdn%3Dwasusyt
 东方卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F5000000004000014098.m3u8%3Fcdn%3Dbestzb
 东方卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F1000000005000265018.m3u8%3Fcdn%3Dystenlive
-东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 东南卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F5000000004000010584.m3u8%3Fcdn%3Dbestzb
 东南卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F1000000005000265033.m3u8%3Fcdn%3Dystenlive
 甘肃卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F5000000011000031121.m3u8%3Fcdn%3Dbestzb
@@ -100,7 +99,7 @@ CCTV-17,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455
 辽宁卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F5000000004000011671.m3u8%3Fcdn%3Dbestzb
 辽宁卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F1000000005000265022.m3u8%3Fcdn%3Dystenlive
 青海卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F1000000002000013359.m3u8%3Fcdn%3Dystenlive
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
 山东卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F1000000001000016568.m3u8%3Fcdn%3Dystenlive
 山东卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F6000000001000004134.m3u8%3Fcdn%3Dwasusyt
 山东卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F1000000005000265019.m3u8%3Fcdn%3Dystenlive
@@ -124,8 +123,8 @@ CCTV-5+,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455
 CCTV-5+,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F1000000005000265016.m3u8%3Fcdn%3Dystenlive
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 广州竞赛,http://tencentplaygsm.gztv.com/live/jingsai.m3u8
-广州竞赛,http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
 广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
 
 😊动画频道,#genre#
+河北少儿科教,http://124.239.135.194:11080/live/sekj/index.m3u8
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
