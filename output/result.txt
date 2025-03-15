@@ -88,6 +88,7 @@ CCTV-17,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455
 贵州卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F5000000004000025843.m3u8%3Fcdn%3Dbestzb
 海南卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F5000000004000006211.m3u8%3Fcdn%3Dbestzb
 河北卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F5000000006000040016.m3u8%3Fcdn%3Dbestzb
+河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
 河南卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F5000000011000031119.m3u8%3Fcdn%3Dbestzb
 吉林卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F5000000011000031117.m3u8%3Fcdn%3Dbestzb
 江苏卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F6000000001000014861.m3u8%3Fcdn%3Dwasusyt
@@ -121,5 +122,6 @@ CCTV-5+,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455
 CCTV-5+,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F6000000001000015875.m3u8%3Fcdn%3Dwasusyt
 CCTV-5+,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F1000000005000265016.m3u8%3Fcdn%3Dystenlive
 广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
+JJ斗地主,https://lunbo.freetv.top/douyu/488743
 
 😊动画频道,#genre#
