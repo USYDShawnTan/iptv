@@ -65,6 +65,8 @@ CCTV-17,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455
 湖南卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F5000000004000006692.m3u8%3Fcdn%3Dbestzb
 湖南卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F6000000001000018044.m3u8%3Fcdn%3Dwasusyt
 湖南卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F1000000005000265024.m3u8%3Fcdn%3Dystenlive
+湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 北京卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F6000000001000020451.m3u8%3Fcdn%3Dwasusyt
 北京卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F1000000005000265027.m3u8%3Fcdn%3Dystenlive
 湖北卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F1000000001000024621.m3u8%3Fcdn%3Dystenlive
@@ -81,13 +83,16 @@ CCTV-17,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455
 东方卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F6000000001000003639.m3u8%3Fcdn%3Dwasusyt
 东方卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F5000000004000014098.m3u8%3Fcdn%3Dbestzb
 东方卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F1000000005000265018.m3u8%3Fcdn%3Dystenlive
+东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 东南卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F5000000004000010584.m3u8%3Fcdn%3Dbestzb
 东南卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F1000000005000265033.m3u8%3Fcdn%3Dystenlive
 甘肃卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F5000000011000031121.m3u8%3Fcdn%3Dbestzb
+甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广西卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F5000000011000031118.m3u8%3Fcdn%3Dbestzb
 贵州卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F5000000004000025843.m3u8%3Fcdn%3Dbestzb
 海南卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F5000000004000006211.m3u8%3Fcdn%3Dbestzb
 河北卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F5000000006000040016.m3u8%3Fcdn%3Dbestzb
+河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
 河南卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F5000000011000031119.m3u8%3Fcdn%3Dbestzb
 吉林卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F5000000011000031117.m3u8%3Fcdn%3Dbestzb
 江苏卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F6000000001000014861.m3u8%3Fcdn%3Dwasusyt
@@ -98,6 +103,7 @@ CCTV-17,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455
 辽宁卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F5000000004000011671.m3u8%3Fcdn%3Dbestzb
 辽宁卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F1000000005000265022.m3u8%3Fcdn%3Dystenlive
 青海卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F1000000002000013359.m3u8%3Fcdn%3Dystenlive
+青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8
 山东卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F1000000001000016568.m3u8%3Fcdn%3Dystenlive
 山东卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F6000000001000004134.m3u8%3Fcdn%3Dwasusyt
 山东卫视,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F1000000005000265019.m3u8%3Fcdn%3Dystenlive
@@ -121,3 +127,4 @@ CCTV-5+,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455
 CCTV-5+,http://192.168.31.127:35456/jump?url=http%3A%2F%2F192.168.31.127%3A35455%2Fitv%2F1000000005000265016.m3u8%3Fcdn%3Dystenlive
 
 😊动画频道,#genre#
+火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
