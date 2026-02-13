@@ -46,6 +46,8 @@ rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000312
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000320
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="📺央视频道",风云足球
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000310
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="🐲其他频道",兵器科技
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000307
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV-1
 rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000342
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
@@ -94,6 +96,10 @@ rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000464
 rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000176
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="📡卫视频道",天津卫视
 rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000323
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="📡卫视频道",快乐垂钓
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000421
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="📡卫视频道",金鹰卡通
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000613
 #EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北经视.png" group-title="☘️湖北频道",湖北经视
 rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444588
 #EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北生活.png" group-title="☘️湖北频道",湖北生活
@@ -120,12 +126,5 @@ rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000522
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000523
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000539
-#EXTINF:-1 tvg-name="体育赛事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/体育赛事.png" group-title="🐲其他频道",体育赛事
-rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000590
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="🐲其他频道",快乐垂钓
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000421
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🐲其他频道",金鹰卡通
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000613
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="🐲其他频道",兵器科技
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000307
+
 
