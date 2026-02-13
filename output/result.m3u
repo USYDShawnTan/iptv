@@ -47,7 +47,7 @@ rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000312
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000320
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="📺央视频道",风云足球
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000310
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="🐲其他频道",兵器科技
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="📺央视频道",兵器科技
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000307
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV-1
 rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000342
